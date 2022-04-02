@@ -1,4 +1,4 @@
-# Apresentacao sobre mim
+# Apresentação sobre mim
 
 - 👋 Oi, eu sou Danilo Santos.
 - 👀 Estou interessado em me desenvolver na área de desenvolvimento.  
